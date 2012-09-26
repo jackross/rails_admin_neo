@@ -1,0 +1,20 @@
+/*
+  Customize RailsAdmin theme here.
+
+  Look at the markup in RailsAdmin and go there to get inspiration from:
+
+  http://twitter.github.com/bootstrap/
+
+  Test me: (actual color should be the one defined in variables.css.scss if you did)
+
+  body{ background-color: $linkColor; }
+*/
+
+body.rails_admin .nav.nav-list a {
+  padding-left: 20px;
+}
+
+body.rails_admin .nav.nav-list .nav-level-1 {
+  padding-left: 20px;
+}
+
