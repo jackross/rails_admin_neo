@@ -7,11 +7,11 @@ require "rails_admin_neo/version"
 Gem::Specification.new do |s|
   s.name        = "rails_admin_neo"
   s.version     = RailsAdminNeo::VERSION
-  s.authors     = ["TODO: Your name"]
-  s.email       = ["TODO: Your email"]
-  s.homepage    = "TODO"
-  s.summary     = "TODO: Summary of RailsAdminNeo."
-  s.description = "TODO: Description of RailsAdminNeo."
+  s.authors     = ["Jack A Ross"]
+  s.email       = ["jack.ross@technekes.com"]
+  s.homepage    = "http://www.technekes.com"
+  s.summary     = "neo theme for rails_admin"
+  s.description = "neo theme for rails_admin"
 
   s.files = Dir["{lib,vendor}/**/*"] + ["MIT-LICENSE", "Rakefile", "README.rdoc"]
 
