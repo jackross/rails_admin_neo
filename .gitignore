@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .bundle/
 log/*.log
 pkg/
@@ -5,3 +6,23 @@ test/dummy/db/*.sqlite3
 test/dummy/log/*.log
 test/dummy/tmp/
 test/dummy/.sass-cache
+=======
+*.gem
+*.rbc
+.bundle
+.config
+coverage
+InstalledFiles
+lib/bundler/man
+pkg
+rdoc
+spec/reports
+test/tmp
+test/version_tmp
+tmp
+
+# YARD artifacts
+.yardoc
+_yardoc
+doc/
+>>>>>>> 13ff089b6244df80f3b865c53f020c53529ff633
